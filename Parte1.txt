@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<head>
+<style type="text/css">
+body {background-color: white}
+
+</style>
+
+</head>
+
+
+<body style="overflow: hidden;">
+<header> == $0
+<div clas="container">
+
+        <li class="version"><a href="#" data-target="version-dropdown" class="dropdown-trigger">
+            1.0.0
+            <svg class="caret" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+            <path d="M7 10l5 5 5-5z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg></a>
+
+<p> <input id="search" placeholder="Search"></p>
+
+
+<p> About<p>
+<p> Getting Started<p>
+<p> CSS<p>
+<p> Components<p>
+<p> JavaScript<p>
+<p> JavaScript<p>
+<p> Forms<p>
+<p> Mobile<p>
+<p> Showcase<p>
+<p> Themes<p>
+
+<span data-badge-caption="updated" class="new badge"></span>
+
+
+<br/>
+
+
+</body>
+<html>
